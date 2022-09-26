@@ -4,3 +4,5 @@ my first git
 
 ## i clone the repo
 i have worked on it now
+
+### checking out the...
